@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+canvas {
+  display: block;
+}
+
+button{
+  width: 20vw;
+  height: 15vh;
+  background-color: lightcoral;
+  font-size: 24px;
+}
